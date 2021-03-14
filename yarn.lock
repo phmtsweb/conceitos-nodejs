@@ -2168,6 +2168,13 @@ is-installed-globally@^0.3.1:
     global-dirs "^2.0.1"
     is-path-inside "^3.0.1"
 
+is-my-date-valid@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/is-my-date-valid/-/is-my-date-valid-0.1.1.tgz#ec630295292b60fd221e4ac7f6e6b5472a4b71f2"
+  integrity sha512-G0DGybXikjkzrE0ngbKmKy47Ss/QMrpbQ8ViXRKxpNHv343o7EzjdtyT1s0CMjyVAoOsnRME6HntfmzVCsm5Hw==
+  dependencies:
+    moment "^2.12.0"
+
 is-npm@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/is-npm/-/is-npm-4.0.0.tgz#c90dd8380696df87a7a6d823c20d0b12bbe3c84d"
@@ -2996,6 +3003,11 @@ mixin-deep@^1.2.0:
   dependencies:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
+
+moment@^2.12.0:
+  version "2.29.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.1.tgz#b2be769fa31940be9eeea6469c075e35006fa3d3"
+  integrity sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==
 
 ms@2.0.0:
   version "2.0.0"
